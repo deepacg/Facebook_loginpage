@@ -1,0 +1,181 @@
+.header {
+    background-color: #3b5998;
+    padding: 10px;
+    font-size: x-large;
+    width: 100%;
+    height: 85px;
+}
+.logo {
+    
+    float: left;
+    width: 50%;
+    padding-top: 20px;
+}
+
+.logo-text {
+    font-size: 43px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.login {
+   
+    float: left;
+    width: 50%;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+body {
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.login-label{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.login-controls {
+    margin-left: 200px;
+}
+
+.forgot {
+    color: #9cb4d8;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.submit {
+    color: white;
+    background-color: #4267b2;
+    height: 25px;
+    border-color:#29487d;
+    border-style: solid;
+    cursor: pointer;
+    
+}
+.submit:hover {
+    background-color: #184091;
+}
+
+.left-section {
+    width: 50%;
+    float: left;
+}
+
+.heading {
+    
+    color: rgb(2, 2, 88);
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.image {
+    height: 75%;
+    width: 65%;
+    margin-left: 200px;
+}
+
+.right-section {
+    width: 50%;
+    float: left;
+}
+
+.details {
+    margin-left: 150px;
+}
+
+.details-text{
+    margin-left: 150px;
+
+}
+
+.first-name{
+    height: 30px;
+    font-size: 17px;
+    border-radius: 5px;
+    border-color: rgb(218, 218, 218);
+    border-top-color:rgb(218, 218, 218)
+   
+    
+}
+.surname{
+    height: 30px;
+    font-size: 17px;
+    margin-left: 10px;
+    border-radius: 5px;
+    border-color: rgb(218, 218, 218);
+    border-top-color:rgb(218, 218, 218)
+}
+.email{
+    height: 30px;
+    font-size: 17px;
+    margin-top: 10px;
+    width: 450px;
+    border-radius: 5px;
+    border-color: rgb(218, 218, 218);
+    border-top-color:rgb(218, 218, 218)
+    
+}
+.password{
+    height: 30px;
+    font-size: 17px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-color: rgb(218, 218, 218);
+    border-top-color:rgb(218, 218, 218)
+}
+
+.content {
+    background: linear-gradient(white, rgb(171, 171, 172));
+    width: 100%;
+    height: 850px;
+    
+}
+
+.signup {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(34, 139, 34);
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.birthday {
+    margin-top: 20px;
+    font-size: 18px;
+    color: rgb(134, 133, 133);
+    font-weight: bold;
+}
+
+.date {
+    margin-top: 10px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-color: rgb(218, 218, 218);
+    border-top-color:rgb(218, 218, 218);
+    font-weight: bold;
+}
+
+.policy {
+    text-decoration: none;
+    color:rgb(0, 0, 128)
+}
+
+.gender {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.text {
+    color: gray
+}
